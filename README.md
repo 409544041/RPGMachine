@@ -5,10 +5,10 @@ This is an ongoing project for Unity 3D, to create an open source and efficient 
 
 To achieve that goal, a number of different open source projects were gathered and united to provide a strong back end to this framework. Most notably:
 
-- NCalc
-- HTMLEngine
-- C-Sharp Parser
-- Hex Tile Manager
+- NCalc (http://ncalc.codeplex.com/)
+- HTMLEngine (https://code.google.com/p/html-engine-mini/)
+- C-Sharp Parser (https://github.com/DavidWynne/CSharpEval)
+- Hex Tile Manager (https://github.com/hexusreaper/HexTileManager)
 
 
 Also the full source code will be available always, both for the Editor Extensions and the Framework itself, to allow any changes eventually needed to be done to the source to happen seamlessly. Our goal with this is provide an incentive for more RPG games to be created in the Unity Engine, by reducing both the cost and the amount of base work needed in order to make such an endeavor possible, allowing more people in varied levels of skill with Game Creation to be able to in an easier way create RPG games, and ultimately providing subsides to the creation of a self supporting RPG Game Creation community specialized in this framework and it's inner workings.
